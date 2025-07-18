@@ -7,8 +7,11 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/ahmedbadawydev/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/ahmedbadawy.dev/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/ahmed-fouad-14253134a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfiszuZPTTLa%2F1%2BvrlGX6tQ%3D%3D" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.facebook.com/share/19Sh3Ur6Nt/?mibextid=qi2Omg" title="facebook Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/facebook.svg"> facebook</a></code>
+    <code><a href="https://www.instagram.com/mazika7210?igsh=M2lhYmJuZGJmdnh4" title="Instagram Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.tiktok.com/@ahmedbadawy845?_t=ZS-8y7J81Rg0wr&_r=1" title="tiktok Profile"><img width="22" src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/tiktok.svg"> tiktok</a></code>
+
 </h5>
 
 <br>
@@ -30,16 +33,16 @@
 
 <p align="center">
   <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
-  <code><img title="CSS3" height="25" src="images/css.svg"></code>
-  <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Tailwind CSS" height="25" src="images/tailwind.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="VS Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Figma" height="25" src="images/figma.svg"></code>
-  <code><img title="Vite" height="25" src="images/vite.svg"></code>
-  <code><img title="AI Tools" height="25" src="images/ai.svg"></code>
+  <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img title="JavaScript" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img title="Tailwind CSS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code>
+  <code><img title="Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+  <code><img title="Figma" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
+  <code><img title="Vite" height="25" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg"></code>
+  <code><img title="bootstrap" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
+
 </p>
 
 ---

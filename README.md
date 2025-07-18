@@ -29,7 +29,7 @@
 ### 🧰 Languages & Tools I Work With
 
 <p align="center">
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
   <code><img title="CSS3" height="25" src="images/css.svg"></code>
   <code><img title="JavaScript" height="25" src="images/javascript.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>

@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I’m+Ahmed+Badawy,+Front-End+Developer;Welcome+to+my+GitHub+Profile!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I’m+Ahmed+Badawy,+Front-End+Expert;Bringing+Ideas+to+Life+with+Code&center=true&size=30">
   </a>
 </h1>
 
@@ -14,22 +14,19 @@
 <br>
 
 <p align="center">
-  I'm Ahmed Badawy, a Front-End Web Developer from Egypt 🇪🇬
-  <br><br>
-  🎓 I'm currently studying Social Work at Fayoum University
-  <br>
-  💻 I specialize in modern web technologies and user interfaces
-  <br>
-  🚀 Currently working on my project: Campus Swap
-  <br>
-  🌱 Learning: React, Tailwind, and AI tools for Front-End
-  <br>
-  📫 Reach me at: <a href="mailto:ahmedbadawy.dev@gmail.com">ahmedbadawy.dev@gmail.com</a>
+  👋 I'm <strong>Ahmed Badawy</strong>, a passionate and creative <strong>Front-End Web Developer</strong> based in Egypt 🇪🇬.<br>
+  💼 I have <strong>3+ years of hands-on experience</strong> building responsive, high-performance websites and web apps.<br>
+  🚀 I specialize in creating seamless user interfaces using <strong>React, Tailwind CSS, JavaScript, HTML, and CSS</strong>.<br>
+  💡 I combine clean code with pixel-perfect design and love building user-friendly experiences.<br>
+  ⚡ I stay ahead of the curve by integrating <strong>AI tools</strong> like ChatGPT, GitHub Copilot, and Figma AI into my workflow.<br>
+  🧠 I believe in continuous learning, speed, and building scalable web projects that solve real problems.<br>
+  🛠 Currently working on my own platform: <strong>Campus Swap</strong> – a smart solution for student-to-student item exchange within university campuses.<br>
+  🎯 My goal: to become one of the top modern web developers in the region and build products that make a difference.
 </p>
 
-<hr>
+---
 
-<h2 align="center">🚀 Languages & Tools</h2>
+### 🧰 Languages & Tools I Work With
 
 <p align="center">
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
@@ -42,11 +39,12 @@
   <code><img title="VS Code" height="25" src="images/vscode.png"></code>
   <code><img title="Figma" height="25" src="images/figma.svg"></code>
   <code><img title="Vite" height="25" src="images/vite.svg"></code>
+  <code><img title="AI Tools" height="25" src="images/ai.svg"></code>
 </p>
 
-<hr>
+---
 
-<h2 align="center">📊 GitHub Stats</h2>
+### 📈 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -61,8 +59,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedbadawy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
+---
+
+### 🧠 Featured Project: Campus Swap
+
+> A smart web platform designed for university students to exchange, lend, or borrow items safely and easily inside their campus.
+
+✅ Built with React + Tailwind  
+✅ Focused on accessibility, speed, and responsive UX  
+✅ Uses smart categorization and search filtering  
+✅ Currently in MVP stage and being tested by students
+
+---
 
 <h4 align="center">
-  🔍 <a href="https://github.com/ahmedbadawy?tab=repositories" title="My Repos">Check out my projects</a> 🔍
+  🔍 <a href="https://github.com/ahmedbadawy?tab=repositories" title="My Repos">Explore My Work</a> 🔍
 </h4>

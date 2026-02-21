@@ -17,9 +17,9 @@
 <br>
 
 <p align="center">
-  👋 I'm <strong>Ahmed Badawy</strong>, a passionate and creative <strong>Front-End Web Developer</strong> based in Egypt 🇪🇬.<br>
-  💼 I have <strong>3+ years of hands-on experience</strong> building responsive, high-performance websites and web apps.<br>
-  🚀 I specialize in creating seamless user interfaces using <strong>React, Tailwind CSS, JavaScript, HTML, and CSS</strong>.<br>
+  👋 I'm <strong>Ahmed Badawy</strong>, a passionate and creative <strong>Full-Stack Web Developer</strong> based in Egypt 🇪🇬.<br>
+  💼 I have <strong>4+ years of hands-on experience</strong> building responsive, high-performance websites and web apps.<br>
+  🚀 I specialize in creating seamless user interfaces using <strong>React, Tailwind CSS, JavaScript, HTML, and CSS , node.js and Expres ,  MongooDB and others...</strong>.<br>
   💡 I combine clean code with pixel-perfect design and love building user-friendly experiences.<br>
   ⚡ I stay ahead of the curve by integrating <strong>AI tools</strong> like ChatGPT, GitHub Copilot, and Figma AI into my workflow.<br>
   🧠 I believe in continuous learning, speed, and building scalable web projects that solve real problems.<br>

@@ -1,9 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmedbadawy.ahmedbadawy">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines= Welcome+to+my+GitHub!;I’m+Ahmed+Badawy,+FullStck+Expert;Bringing+Ideas+to+Life+with+Code&center=true&size=30">
-  </a>
+ Welcome to my GitHub! <br>
+  I’m Ahmed Badawy ,  i'm a Full-stack Web Development. 
 </h1>
 
 <h5 align="center">
